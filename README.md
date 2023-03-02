@@ -2,4 +2,5 @@
 
 
 Project for godot4.
+
 Example for 2d drawing by code (gdscript).
